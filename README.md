@@ -6,7 +6,8 @@ This project focuses on classifying rice leaf diseases using four pre-trained Co
 
 The dataset used in this project was obtained from Kaggle:
 
-** Dataset:** 
+** Dataset:
+
 [Rice Leaf Disease Image Dataset – Kaggle](https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image)
 
 - Total Images: 5,932  
